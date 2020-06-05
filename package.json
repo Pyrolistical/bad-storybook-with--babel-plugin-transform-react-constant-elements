@@ -1,0 +1,17 @@
+{
+  "name": "storybook-repo",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook --ci"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@storybook/react": "5.3.19",
+    "babel-loader": "8.1.0"
+  }
+}
